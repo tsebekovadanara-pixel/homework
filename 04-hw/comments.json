@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "postId": 1,
+    "name": "Иван",
+    "email": "ivan@example.com",
+    "body": "Здорово, удачи!"
+  },
+  {
+    "id": 2,
+    "postId": 1,
+    "name": "Мария",
+    "email": "maria@example.com",
+    "body": "Тоже недавно начала."
+  },
+  {
+    "id": 3,
+    "postId": 2,
+    "name": "Иван",
+    "email": "ivan@example.com",
+    "body": "Полезное пояснение."
+  },
+  {
+    "id": 4,
+    "postId": 3,
+    "name": "Анна",
+    "email": "anna@example.com",
+    "body": "Не забудь делать ветки."
+  },
+  {
+    "id": 5,
+    "postId": 4,
+    "name": "Анна",
+    "email": "anna@example.com",
+    "body": "Хорошо объяснено."
+  },
+  {
+    "id": 6,
+    "postId": 5,
+    "name": "Иван",
+    "email": "ivan@example.com",
+    "body": "Ещё про статусы бы."
+  }
+]
